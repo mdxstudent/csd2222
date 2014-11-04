@@ -18,5 +18,6 @@ public class Student {
 	public void printDetails ( ){
 		System.out.println("name: " + name + "age: " + age + "gender: " + gender + "module:" + module );
 		
+		
 	}
 }
